@@ -2,7 +2,7 @@
 
 **`Programador PHP Full Stack | Líder de equipe em Manutenção de Sistemas`**
 
-Profissional com 14 anos de experiência em desenvolvimento de software, especializado em PHP com frameworks Laravel e Zend, em JavaScript com Vue.js, e em Banco de Dados com MySQL e PostgreSQL. No front-end, tenho experiência com as tecnologias HTML5, CSS3, Quasar, Vuetify e jQuery. Para edição de código, utilizo Visual Studio Code e PHPStorm, e para manipulação de imagens web, Adobe Fireworks.
+Profissional com 16 anos de experiência em desenvolvimento de software, especializado em PHP com frameworks Laravel e Zend, em JavaScript com Vue.js, e em Banco de Dados com MySQL e PostgreSQL. No front-end, tenho experiência com as tecnologias HTML5, CSS3, Quasar, Vuetify e jQuery. Para edição de código, utilizo Visual Studio Code e PHPStorm, e para manipulação de imagens web, Adobe Fireworks.
 
 Atualmente, atuo como líder da equipe da manutenção de sistemas legados da Delegacia Geral da Polícia Civil do Estado do Pará, garantindo soluções ágeis e eficientes para demandas críticas. Fui idealizador e desenvolvedor da Plataforma Intranet (Escritório Virtual da Polícia Civil do Pará), que otimiza a interação entre servidores e melhora a produtividade por meio de ferramentas digitais inovadoras.
 
